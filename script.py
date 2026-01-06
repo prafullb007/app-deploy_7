@@ -1,5 +1,4 @@
 import sys
-
 def main():
     try:
         name = sys.argv[1] if len(sys.argv) > 1 else "GitHub User"
